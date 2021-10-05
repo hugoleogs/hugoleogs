@@ -7,8 +7,8 @@
 [![Stack Overflow: Hugo Leonardo](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/17078523/hugo-leonardo)](https://stackoverflow.com/users/17078523/hugo-leonardo)
 
 ## Skills
-- **BackEnd**: Node.js, Express
-- **FrontEnd**: React, RxJs, SASS, Webpack
+- **BackEnd**: Node.js, Express, Django
+- **FrontEnd**: SASS, Webpack, Gulp, jQuery, Bootstrap
 - **DevOps**: Docker
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Misc**: Git
