@@ -6,6 +6,21 @@
 [![Gmail: Hugo](https://img.shields.io/badge/Gmail-Hugo-red)](mailto:hugoleonardo.gs2@gmail.com)
 [![Stack Overflow: Hugo Leonardo](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/17078523/hugo-leonardo)](https://stackoverflow.com/users/17078523/hugo-leonardo)
 
+<div align="left">
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=hugoleogs&count_private=true&show_icons=true&hide=issues&theme=dark&include_all_commits=true&custom_title=hugoleogs Status"
+    />
+  </a>
+  <a>
+    <img
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleogs&&layout=compact&theme=dark"
+    />
+  </a>
+</div>
+
 ## Skills
 - **BackEnd**: Node.js, Express, Django
 - **FrontEnd**: SASS, Webpack, Gulp, jQuery, Bootstrap, Ajax
