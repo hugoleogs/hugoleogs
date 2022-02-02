@@ -6,6 +6,11 @@
 [![Gmail: Hugo](https://img.shields.io/badge/Gmail-Hugo-red)](mailto:hugoleonardo.gs2@gmail.com)
 [![Stack Overflow: Hugo Leonardo](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/17078523/hugo-leonardo)](https://stackoverflow.com/users/17078523/hugo-leonardo)
 
+>I am a computer engineering student who likes to learn and study new technologies.
+
+
+* :computer: I really enjoy programming.
+
 ## Technologies
 <div align="center"> 
   <a href="https://nodejs.org/en/">
