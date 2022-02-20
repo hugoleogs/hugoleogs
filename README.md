@@ -106,7 +106,7 @@
 
 ## Skills
 - **BackEnd**: Node.js, Express, Django
-- **FrontEnd**: SASS, Webpack, Gulp, jQuery, Bootstrap, Ajax
+- **FrontEnd**: SASS, Webpack, Gulp, jQuery, Bootstrap, Ajax, React, Vue
 - **DevOps**: Docker
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Misc**: Git
